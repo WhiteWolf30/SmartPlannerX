@@ -10,7 +10,7 @@ public class Fi {
 
     @GetMapping("/hell")
     public String sayHello(){
-        return "Hello";
+        return "say Hell";
     }
 
 }
